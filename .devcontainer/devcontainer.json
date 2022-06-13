@@ -1,0 +1,11 @@
+{
+  "name": "your favorite name",
+  "dockerComposeFile": [
+    "docker-compose.yml"
+  ],
+  "service": "workspace",
+  "workspaceFolder": "/var/www",
+  "remoteUser": "vscode",
+  "settings": {},
+  "extensions": []
+}
